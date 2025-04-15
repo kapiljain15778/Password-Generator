@@ -4,32 +4,32 @@ This is a simple and functional Password Generator built using HTML, CSS, and Ja
 🧠 Features
 Generate passwords of customizable lengths
 
-Include/exclude:
+.Include/exclude:
 
-Uppercase letters
+1.Uppercase letters
 
-Lowercase letters
+2.Lowercase letters
 
-Numbers
+3.Numbers
 
-Special characters
+4.Special characters
 
-Instant password generation on button click
+.Instant password generation on button click
 
-Option to copy the generated password to clipboard
+.Option to copy the generated password to clipboard
 
-Clean and responsive UI design
+.Clean and responsive UI design
 
 🎯 Purpose
 This project was created to practice and demonstrate fundamental front-end skills, including:
 
-DOM manipulation with JavaScript
+.DOM manipulation with JavaScript
 
-Basic UI/UX with HTML & CSS
+.Basic UI/UX with HTML & CSS
 
-Working with randomization logic
+.Working with randomization logic
 
-Clipboard API usage
+.Clipboard API usage
 
 It serves as a beginner-friendly tool and learning project for anyone interested in web development or improving their JavaScript skills.
 
